@@ -155,6 +155,7 @@
 | UsnJrnl2Csv            | Forensics | https://github.com/jschicht/UsnJrnl2Csv                     | Parser for $UsnJrnl on NTFS                                                                                                                                                                                                       |
 | fcrackzip              | Forensics | https://github.com/hyc/fcrackzip                            | Brute-force guesses a zip password (for passwords <7 characters or so)                                                                                                                                                            |
 | pngtools               | Forensics | https://github.com/mikalstill/pngtools                      | An open-source tool to dissect pngs.                                                                                                                                                                                              |
+| Armada                 | Forensics | https://github.com/resyncgg/armada                          | A high performance TCP SYN port scanner.                                                                                                                                                                                          |
 
 
 
